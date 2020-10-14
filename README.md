@@ -4,30 +4,23 @@ title: About
 permalink: /about/
 ---
 
-## Theme Monos
-> Simple and lightweight theme for Jekyll
 
-### Features
-- Responsive.
-- Syntax Highlight
-- Most optimized theme for tech blog.
-- Lightweight with minimum stylesheet.
-- Easy to customize.
-- Offers category menu.
+개인기술 노트식 블로그입니다.
 
-### _config.yml
-> Code block will look like this.
-```yml
-highlighter-theme: monokai //you can change your syntax color scheme.
-date_format: "%Y-%M-%D" //and date format.
-```
+기초가 부족하다고 판단되어 기초적인부분도 작성하려고 합니다.
 
-### Screenshots
-#### Page
-![alt text](/public/img/screenshot-1.png)
-#### Articles
-![alt text](/public/img/screenshot-2.png)
-#### Page - Mobile
-![alt text](/public/img/screenshot-m1.png)
-#### Page - Articles
-![alt text](/public/img/screenshot-m2.png)
+Email : sjking1683@gmail.com
+
+GitHub : [GIT](https://github.com/Bae-Han-Ul)
+
+---
+
+## 이력
+
+2019.04 NV그룹 주임
+
+2019.08 ~ (현) KoreaScoring 프로
+
+---
+
+Thanks for [Jewelism](https://jewelism.github.io/)
