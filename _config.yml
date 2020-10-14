@@ -21,7 +21,7 @@
 title: Ul's Note
 email: sjking1683@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Uipath, Vuejs Blog
+  Uipath,Vuejs Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Bae-Han-Ul.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: Bae-Han-Ul
