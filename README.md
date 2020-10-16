@@ -19,7 +19,7 @@ GitHub : [GIT](https://github.com/Bae-Han-Ul)
 
 2019.04 NV그룹 주임
 
-2019.08 ~ (현) KoreaScoring 프로
+2019.08 ~ (현) KoreaScoring RPA플랫폼사업본부 프로
 
 ---
 
